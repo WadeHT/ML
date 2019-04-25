@@ -1,0 +1,50 @@
+Epoch: 1/10
+-----------
+Training loss: 1.2067	accuracy: 0.5013
+
+Epoch: 2/10
+-----------
+Training loss: 0.8951	accuracy: 0.6401
+
+Epoch: 3/10
+-----------
+Training loss: 0.7458	accuracy: 0.7124
+
+Epoch: 4/10
+-----------
+Training loss: 0.6355	accuracy: 0.7661
+
+Epoch: 5/10
+-----------
+Training loss: 0.5389	accuracy: 0.8077
+
+Epoch: 6/10
+-----------
+Training loss: 0.4814	accuracy: 0.8296
+
+Epoch: 7/10
+-----------
+Training loss: 0.4118	accuracy: 0.8552
+
+Epoch: 8/10
+-----------
+Training loss: 0.3641	accuracy: 0.8706
+
+Epoch: 9/10
+-----------
+Training loss: 0.3410	accuracy: 0.8779
+
+Epoch: 10/10
+------------
+Training loss: 0.2953	accuracy: 0.8968
+
+
+Accuracy on the ALL test images: 61 %
+Accuracy of buildings : 84 %
+Accuracy of   sea :  97 %
+Accuracy of forest :  13 %
+Accuracy of mountain :  9 %
+Accuracy of glacier :  91 %
+Accuracy of street : 81 %
+
+seed = 123; batchsize = 32 lr = 0.01 epoch = 10
